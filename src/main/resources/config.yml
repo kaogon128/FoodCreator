@@ -1,0 +1,22 @@
+Foods:
+  - Hamburger
+Hamburger:
+  DisplayName: §6ハンバーガー
+  Lore:
+    - §eこのジャンキーさが、食欲をそそる
+  FoodLevel: 10
+  Textures: http://textures.minecraft.net/texture/d33ddb92cb6b3a79280b8bdced8976aeab13a4bffeaef2d46d828bd91dee0f3e
+  Recipe:
+    # N = Null
+    Top : NbN
+    Middle : thl
+    Bottom : NbN
+    Alphabets:
+      - b
+      - t
+      - h
+      - l
+    b: BREAD
+    t: BEETROOT
+    h: COOKED_BEEF
+    l: GRASS

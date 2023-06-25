@@ -1,0 +1,4 @@
+name: FoodCreator
+version: '${project.version}'
+main: com.github.kaogon128.foodcreator.FoodCreator
+api-version: 1.19
